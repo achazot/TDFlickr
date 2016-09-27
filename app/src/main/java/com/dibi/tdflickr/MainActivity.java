@@ -85,3 +85,5 @@ public class MainActivity extends AppCompatActivity
     }
 
 }
+
+// https://www.airpair.com/android/fragments-android-studio
